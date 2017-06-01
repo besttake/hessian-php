@@ -1,17 +1,18 @@
 {
-    "name": "lvmama/HessianPHP",
-    "description": "Hessian Client",
+    "name": "lvmama/hessian-php",
+    "type": "library"
+    "description": "Hessian Client Library",
     "keywords": ["hessian"],
     "author": [
                 {
-                        "name": "qianyongsheng",
+                   "name": "qianyongsheng"
                 }
     ],
     "require": {
         "php": ">=5.3.0"
     },
     "autoload": {
-        "classmap": ["./", "Hessian1/", "Hessian2/"]
+        "classmap": ["src/"]
     }
 }
 
