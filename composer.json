@@ -1,6 +1,6 @@
 {
     "name": "lvmama/hessian-php",
-    "type": "library"
+    "type": "library",
     "description": "Hessian Client Library",
     "keywords": ["hessian"],
     "author": [
