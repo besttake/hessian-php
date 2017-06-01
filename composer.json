@@ -1,0 +1,17 @@
+{
+    "name": "lvmama/HessianPHP",
+    "description": "Hessian Client",
+    "keywords": ["hessian"],
+    "author": [
+                {
+                        "name": "qianyongsheng",
+                }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["./", "Hessian1/", "Hessian2/"]
+    }
+}
+
